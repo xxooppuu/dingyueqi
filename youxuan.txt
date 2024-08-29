@@ -1,5 +1,5 @@
-cf6.105.ee:80#US优选节点ntls
-cf7.105.ee:80#US优选节点ntls
-cf8.105.ee:2052#US优选节点ntls
-cf9.105.ee:8080#US优选节点ntls
-cf10.105.ee:2086#US优选节点ntls
+cf1.105.ee:80#US优选节点ntls
+cf2.105.ee:80#US优选节点ntls
+cf3.105.ee:2052#US优选节点ntls
+cf4.105.ee:8080#US优选节点ntls
+cf5.105.ee:2086#US优选节点ntls
